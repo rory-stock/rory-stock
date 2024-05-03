@@ -1,16 +1,30 @@
-### Hi there 👋
+# Rory Stock
 
-<!--
-**rory-stock/rory-stock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Student at [Waimea College](https://www.waimea.school.nz) in New Zealand.
 
-Here are some ideas to get you started:
+## Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mountain Biking
+- Building MTB trails
+- Photography
+
+## Morning Routine
+
+1. asdf
+1. asdf
+1. asdf
+
+## Code
+
+HTML header tag `<head>`
+
+Code Block
+```html
+<head>
+    <title>Hello</title>
+</head>
+```
+
+## My Bike
+
+![My Bike](transition-patrol-alloy-nx-complete-mountain-bike-2022-.png)
