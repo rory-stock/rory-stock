@@ -5,6 +5,6 @@
 </div>
 
 <div align-"right>
-<img src="rory-stock-stats.vercel.app/api?username=rory-stock&show_icons=true&hide_border=true"/>
+<img src="https://rory-stock-stats.vercel.app/api?username=rory-stock&show_icons=true&hide_border=true"/>
 </div
 
